@@ -1,6 +1,7 @@
 import React from 'react'
 import websiteImg1 from '../assets/ecommerce-websites.jpg'
 import websiteImg2 from '../assets/todo.jpg'
+import websiteImg3 from '../assets/Food delivery.jpeg'
 
 function Projects() {
     
@@ -8,14 +9,19 @@ function Projects() {
         projects : [
             {
                 image: websiteImg1,
-                description: 'A Ecommerce Website. Built with MERN Stack',
+                description: 'A Ecommerce Website. built with MERN Stack',
                 link: 'https://github.com/Syed-Lutfi-03/E-Commerce_app'
             },
             {
                 image: websiteImg2,
-                description: 'A Todo List website. built with React.js',
+                description: 'A Todo List Website. built with React.js',
                 link: 'https://github.com/Syed-Lutfi-03/Todolist'
             },
+            {
+                image: websiteImg3,
+                description: 'A Food Delivery Website. built with React.js',
+                link: 'https://github.com/Syed-Lutfi-03/Food-delivery-app'
+            }
             
         ]
     }
