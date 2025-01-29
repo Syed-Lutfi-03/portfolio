@@ -15,12 +15,12 @@ function Projects() {
             {
                 image: websiteImg2,
                 description: 'A Todo List Website. built with React.js',
-                link: 'https://github.com/Syed-Lutfi-03/Todolist'
+                link: 'todolist-git-main-syed-lutfi-03s-projects.vercel.app'
             },
             {
                 image: websiteImg3,
                 description: 'A Food Delivery Website. built with React.js',
-                link: 'https://github.com/Syed-Lutfi-03/Food-delivery-app'
+                link: 'food-delivery-app-git-main-syed-lutfi-03s-projects.vercel.app'
             }
             
         ]
